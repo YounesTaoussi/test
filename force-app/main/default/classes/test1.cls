@@ -3,7 +3,7 @@ public with sharing class test1 {
 
     }
 
-    public test2() {
+    public void test2() {
 
     }
 }
